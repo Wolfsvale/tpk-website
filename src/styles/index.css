@@ -1,0 +1,43 @@
+.element-center {
+    text-align: center;
+}
+
+.padding-top-px5 {
+    padding-top: 50px;
+}
+
+body {
+    background-color: #404040;
+    font-family: sans-serif;
+    margin: 0 10% 0;
+}
+
+.rounded-image {
+    border-radius: 50%;
+}
+
+h1, h2, h3, p {
+    color: #ffffff;
+}
+
+.size-1px {
+    height: 100px;
+}
+
+.size-2px {
+    height: 200px;
+}
+
+.size-5px {
+    height: 500px;
+}
+
+.width-box-5px {
+    word-wrap: break-word;
+    width: 100px;
+}
+
+.listing-camouflage {
+    list-style: none;
+    display: inline-flex;
+}
