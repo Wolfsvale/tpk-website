@@ -2,6 +2,24 @@
     text-align: center;
 }
 
+.element-left {
+    text-align: left;
+}
+
+.element-right {
+    text-align: right;
+}
+
+.block-inline {
+    display: inline-block;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.block-inline p {
+    padding-top: 7.5%;
+}
+
 .padding-top-px5 {
     padding-top: 20%;
 }
