@@ -108,3 +108,26 @@ nav .active {
     background-color: #2ba48e;
     color: black;
 }
+
+.footer {
+    bottom: 0;
+    position: absolute;
+    text-align: center;
+    padding: 1rem;
+    left: 0;
+    right: 0;
+}
+
+.footer__notice {
+    font-weight: bolder;
+}
+
+.footer__url {
+    color: #2ba48e;
+    text-underline: #2ba48e;
+}
+
+.wrapped__body {
+    position: relative;
+    min-height: 100vh;
+}
